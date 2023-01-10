@@ -1,0 +1,23 @@
+h1.titulo{
+    background-color: bisque;
+    font-size: 30px;
+    text-align: center;
+}
+
+nav{
+    background-color: greenyellow;
+    text-align:center
+}
+
+section{
+    background-color: orange;
+}
+
+p{
+    background-color: orange;
+}
+
+p.final{
+    background-color: blue;
+    text-align: center;
+}
