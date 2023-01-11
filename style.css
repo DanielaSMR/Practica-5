@@ -15,9 +15,16 @@ section{
 
 p{
     background-color: orange;
+    margin: 0 auto;
+    text-indent: 0cm;
+        
 }
 
 p.final{
     background-color: blue;
     text-align: center;
+}
+
+span{
+    background-color: yellow;
 }
